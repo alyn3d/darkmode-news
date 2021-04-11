@@ -1,0 +1,26 @@
+{
+  "name": "DarkMode News",
+  "action": {},
+  "manifest_version": 3,
+  "version": "0.1",
+  "description": "News Websites will automatically go to dark mode.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ],
+  "icons": {
+    "16": "logo-16.png",
+    "48": "logo-48.png",
+   "128": "logo-128.png" 
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.digi24.ro/*", "*://*.theguardian.com/*", "*://*.reuters.com/*", "*://*.bbc.com/*", "*://*.foreignaffairs.com/*", "*://*.dw.com/*", "*://*.ft.com/*", "*://*.chicagotribune.com/*", "*://*.apnews.com/*", "*://*.europa.eu/*"],
+      "js": ["run.js"]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "darkmode-news",
+  "version": "1.0.0",
+  "description": "Chrome extensions to make some news websites be displayed in dark mode",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "crx3": "^1.1.3"
+  },
+  "scripts": {
+    "pack": "crx3 -o release -p release src"
+  },
+  "author": "alyn3d",
+  "license": "ISC"
+}
