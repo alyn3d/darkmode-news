@@ -10,7 +10,7 @@
 
 # Latest Release
 
-v0.1b
+v0.2
 [Check it out](https://github.com/alyn3d/darkmode-news/releases)
 
 ### Websites currently supported
