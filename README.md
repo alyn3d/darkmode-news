@@ -1,6 +1,5 @@
 # DarkMode News Chrome Extension
-
-Quick and dirty Chrome extension to force some news websites to go into dark mode.
+![logo](https://repository-images.githubusercontent.com/356982666/c9b4d280-9b28-11eb-8430-ebb3d0e11f63)
 
 ### Installing
 
@@ -9,9 +8,10 @@ Quick and dirty Chrome extension to force some news websites to go into dark mod
 3. Restart Chrome.
 4. Go back to Chrome Extensions and drag and drop the .crx file
 
-# Release
+# Latest Release
 
-v0.1
+v0.1b
+[Check it out](https://github.com/alyn3d/darkmode-news/releases)
 
 ### Websites currently supported
 
