@@ -25,6 +25,7 @@ v0.2
 - apnews.com
 - europa.eu
 - dw.com
+- 2lib.org
 
 ## Author
 **Alin Ion** - [alyn3d](https://github.com/alyn3d)
