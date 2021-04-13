@@ -7,12 +7,6 @@ for (i = 0; i < toWhite.length; i++) {
 var adjustPadding = document.querySelector('.footer-network-nav');
 adjustPadding.style.setProperty('padding-top', '20px');
 
-function addStyle(styleString) {
-  const style = document.createElement('style');
-  style.textContent = styleString;
-  document.head.append(style);
-}
-
 addStyle(`
 ::selection {
   color: black;
