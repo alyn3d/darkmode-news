@@ -1,14 +1,16 @@
 {
   "name": "DarkMode News",
-  "action": {},
-  "manifest_version": 3,
-  "version": "0.2",
+  "manifest_version": 2,
+  "version": "0.3",
   "description": "News Websites will automatically go to dark mode.",
   "permissions": [
     "activeTab",
-    "scripting",
     "tabs"
   ],
+  "browser_action": {
+    "default_icon": "logo-48.png",
+    "default_popup": "popup.html"
+  },
   "icons": {
     "16": "logo-16.png",
     "48": "logo-48.png",
@@ -39,8 +41,5 @@
       "matches": ["*://*.2lib.org/*"],
       "js": ["/js/2lib.js"]
     }
-  ],
-  "background": {
-    "service_worker": "background.js"
-  }
+  ]
 }
