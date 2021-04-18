@@ -1,5 +1,15 @@
-# DarkMode News Chrome Extension
-![logo](https://repository-images.githubusercontent.com/356982666/c9b4d280-9b28-11eb-8430-ebb3d0e11f63)
+# DarkMode News Browser Extension
+![logo](https://repository-images.githubusercontent.com/356982666/54a94600-a0b0-11eb-9628-79fb453ceaf1)
+
+***
+<p align='center'>Get it on</p>
+<p align='center'>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/darkmode-news/"><img src="https://user-images.githubusercontent.com/11836158/115163309-1bbda100-a0b1-11eb-8933-daefd6e473c2.png"/></a>
+
+
+</p>
+
+***
 
 ### Installing
 
@@ -11,7 +21,7 @@
 
 # Latest Release
 
-v0.2
+v0.3
 [Check it out](https://github.com/alyn3d/darkmode-news/releases)
 
 ### Websites currently supported
