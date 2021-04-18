@@ -45,6 +45,11 @@ v0.3
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+## Support
+I do this so I can learn some stuff and have some fun, but if you want to... you can
+<p><a href="https://www.buymeacoffee.com/alyn3d"><img width="208" alt="buy-me-a-coffee" src="https://user-images.githubusercontent.com/11836158/115165880-c7b6ba80-a0b8-11eb-9b86-a65810c9969c.png"></a><p>
+
+
 ## TODO
 
 * Add more supported websites 
