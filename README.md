@@ -6,7 +6,8 @@
 1. Download the current [release](https://github.com/alyn3d/darkmode-news/releases) from Github.
 2. In Chrome open "Extensions" and enable "Developer Mode".
 3. Restart Chrome.
-4. Go back to Chrome Extensions and drag and drop the .crx file
+4. Extract .crx file using a decent unarchiver (7zip recommended)
+5. Go back to Chrome Extensions, select "Load Unpacked" and browse to the directory where you've extracted the contents of the .crx file
 
 # Latest Release
 
