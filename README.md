@@ -4,7 +4,9 @@
 ***
 <p align='center'>Get it on</p>
 <p align='center'>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/darkmode-news/"><img src="https://user-images.githubusercontent.com/11836158/115163309-1bbda100-a0b1-11eb-8933-daefd6e473c2.png"/></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/darkmode-news/" target="_blank"><img src="https://user-images.githubusercontent.com/11836158/115163309-1bbda100-a0b1-11eb-8933-daefd6e473c2.png"></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/darkmode-news/nklpjlpckfmbbnhlcbnaabohecjgjnjd" target="_blank"><img src="https://user-images.githubusercontent.com/11836158/115280163-49a5f280-a150-11eb-8969-ac5133e9cf13.png"></a>
+
 
 
 </p>
