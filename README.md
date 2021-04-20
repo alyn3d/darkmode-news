@@ -2,13 +2,10 @@
 ![logo](https://repository-images.githubusercontent.com/356982666/54a94600-a0b0-11eb-9628-79fb453ceaf1)
 
 ***
-<p align='center'>Get it on</p>
 <p align='center'>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/darkmode-news/" target="_blank"><img src="https://user-images.githubusercontent.com/11836158/115163309-1bbda100-a0b1-11eb-8933-daefd6e473c2.png"></a>
+<a href="https://chrome.google.com/webstore/detail/darkmode-news/hbbjhijmffbnlaafcggkgknfoihnjimm" target="_blank"><img src="https://user-images.githubusercontent.com/11836158/115376103-13f81c80-a1d7-11eb-8471-b913325cd985.png"></a>
 <a href="https://microsoftedge.microsoft.com/addons/detail/darkmode-news/nklpjlpckfmbbnhlcbnaabohecjgjnjd" target="_blank"><img src="https://user-images.githubusercontent.com/11836158/115280163-49a5f280-a150-11eb-8969-ac5133e9cf13.png"></a>
-
-
-
 </p>
 
 ***
